@@ -18,6 +18,7 @@ print_alignment("SIINFEKL", results$top_identity$Peptide.Sequence[1])
 
 ****EXAMPLE OUTPUT****
 Alignment  (| identical  + conservative  . non-conservative)
+
 Query    : S I I N F E K L 
          : . | + + | | + | 
 Candidate: E I V T F E R L 
