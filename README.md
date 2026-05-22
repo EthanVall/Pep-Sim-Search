@@ -15,5 +15,6 @@ Query peptide does not need to be found in immunopeptidomics data set
 5) #See the alignment of your query vs any hit
 print_alignment("SIINFEKL", results$top_similarity$Peptide.Sequence[1])
 print_alignment("SIINFEKL", results$top_identity$Peptide.Sequence[1])
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/a5c1086a-9f33-4130-b445-17258392396c" />
+<img width="700" height="299" alt="image" src="https://github.com/user-attachments/assets/6a2a7698-ce7e-42b2-9892-85269bdbcd61" />
+
 
